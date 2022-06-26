@@ -13,7 +13,7 @@ src
 ├─ assets     - 静态文件
 ├─ component  - 组件
 ├─ page       - 页面
-├─ store      - 状态管理
+├─ hooks      - 自定义hook
 ├─ util       - 工具
 ├─ App.jsx    - 根组件
 └─ main.jsx   - 入口文件
